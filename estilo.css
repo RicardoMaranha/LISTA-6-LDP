@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(87, 115, 146);
+    font: normal 15pt Arial;
+
+}
+header {
+    color: aliceblue;
+    text-align: center;
+
+}
+
+section {
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.259);
+}
+
+select#estoque{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 250px;
+    }
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+footer {
+    color: aliceblue;
+    text-align: center;
+    font: italic 12pt times;
+
+
+}
